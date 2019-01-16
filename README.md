@@ -1,2 +1,2 @@
 # Jenkins-demo
-Project to demonstrate GitHub-Jenkins  integration.
+Project to demonstrate GitHub-Jenkins integration.
